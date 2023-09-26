@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-26T21:50:35 IST" name="Suite" finished-at="2023-09-26T21:50:43 IST" duration-ms="7283">
+    <groups>
+    </groups>
+    <test started-at="2023-09-26T21:50:35 IST" name="Test" finished-at="2023-09-26T21:50:43 IST" duration-ms="7283">
+      <class name="test.Test1">
+        <test-method signature="setdata()[pri:0, instance:test.Test1@5f058f00]" started-at="2023-09-26T21:50:36 IST" name="setdata" finished-at="2023-09-26T21:50:36 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdata -->
+        <test-method signature="addpet()[pri:1, instance:test.Test1@5f058f00]" started-at="2023-09-26T21:50:36 IST" name="addpet" finished-at="2023-09-26T21:50:39 IST" duration-ms="3579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addpet -->
+        <test-method signature="getpetbyid()[pri:2, instance:test.Test1@5f058f00]" started-at="2023-09-26T21:50:39 IST" name="getpetbyid" finished-at="2023-09-26T21:50:40 IST" duration-ms="1167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpetbyid -->
+        <test-method signature="updatepetbyname()[pri:3, instance:test.Test1@5f058f00]" started-at="2023-09-26T21:50:40 IST" name="updatepetbyname" finished-at="2023-09-26T21:50:42 IST" duration-ms="1162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatepetbyname -->
+        <test-method signature="deletepetbyid()[pri:4, instance:test.Test1@5f058f00]" started-at="2023-09-26T21:50:42 IST" name="deletepetbyid" finished-at="2023-09-26T21:50:43 IST" duration-ms="1106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletepetbyid -->
+      </class> <!-- test.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
